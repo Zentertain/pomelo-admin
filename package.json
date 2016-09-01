@@ -1,6 +1,6 @@
 {
     "name": "@zentertain/pomelo-admin",
-    "version": "0.4.5",
+    "version": "0.4.6",
     "private": false,
     "dependencies": {
         "pomelo-scheduler": "0.3.8",
